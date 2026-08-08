@@ -1,4 +1,6 @@
 Hello GitHub! 
 My name is Karthik Kothakota
-i am learning git and git hub.
+i am learning git and GitHub.
 This change is being made on the feature branch.
+This change is being made on the feature branch.
+
